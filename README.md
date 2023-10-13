@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, mathematics, computer science, sport, and gaming
 - 🌱 I’m currently learning computer science (web development)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me okkompwzben@gmail.com
+- 📫 How to reach me chouaib.k.bentelli@gmail.com
 
 <!---
 BENTELLI-Chouaib/BENTELLI-Chouaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
